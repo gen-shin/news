@@ -36,6 +36,7 @@ playground.xcworkspace
 
 # Swift Package Manager
 #
+.DS_Store
 # Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
 # Packages/
 # Package.pins
@@ -88,3 +89,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
